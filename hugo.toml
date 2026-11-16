@@ -1,0 +1,29 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Your Name | IT Leader"
+theme = "PaperMod"
+
+[params]
+  description = "IT Senior Management Professional"
+  author = "Your Name"
+  ShowReadingTime = true
+  ShowShareButtons = false
+
+  [params.homeInfoParams]
+    Title = "မင်္ဂလာပါ 👋"
+    Content = "IT Senior Management အတွေ့အကြုံနဲ့ ကျွန်တော့်ရဲ့ portfolio ပါ။"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
