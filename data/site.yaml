@@ -1,0 +1,68 @@
+# ဒီဖိုင်ထဲက စာတွေကို ကိုယ့်အချက်အလက်နဲ့ ပြင်ပါ။ website ရဲ့ စာအားလုံး ဒီမှာ ရှိပါတယ်။
+name: "Pajero"
+role: "IT Project Manager"
+status: "Cyber Security Designer"
+location: "London, UK"
+tagline: "I deliver technology projects on time, on budget and with results the business can measure."
+email: "you@example.com"
+linkedin: "https://www.linkedin.com/in/your-profile"
+github: "https://github.com/pajero9584"
+cv: ""        # ဥပမာ "cv.pdf" (ဖိုင်ကို static ထဲ ထည့်ပါ)
+photo: ""     # ဥပမာ "images/me.jpg" (ဖိုင်ကို static/images ထဲ ထည့်ပါ)
+
+about:
+  heading: "Technology led by clear plans and people who trust each other"
+  text:
+    - "Write two or three short paragraphs about yourself: your years of experience, the kind of teams and projects you lead, and what you want to do next."
+    - "Mention what you care about at work, for example clear communication, risk control or growing your team."
+
+portfolio:
+  heading: "Selected projects"
+  items:
+    - title: "Project name"
+      text: "One or two sentences: the problem, your role and the result, with real numbers."
+      tags: ["Delivery", "Cloud", "Budget"]
+      url: "https://github.com/pajero9584"
+      image: ""
+    - title: "Another project"
+      text: "Describe what changed because of your work."
+      tags: ["Migration", "Team of 12"]
+      url: ""
+      image: ""
+
+services:
+  heading: "What I do"
+  items:
+    - title: "Project and program delivery"
+      text: "Planning, scheduling, risk management and reporting from kickoff to handover."
+    - title: "IT strategy and transformation"
+      text: "Turning business goals into a technology roadmap the team can execute."
+    - title: "Team leadership"
+      text: "Building, coaching and aligning cross-functional teams."
+    - title: "Vendors and budgets"
+      text: "Selecting suppliers, negotiating contracts and controlling cost."
+
+skills:
+  heading: "Skills"
+  items:
+    - { name: "Project management", level: 90, label: "Advanced", years: "X years" }
+    - { name: "Stakeholder management", level: 85, label: "Advanced", years: "X years" }
+    - { name: "Agile and Scrum", level: 75, label: "Proficient", years: "X years" }
+    - { name: "Cloud and infrastructure", level: 65, label: "Proficient", years: "X years" }
+
+experience:
+  heading: "Experience"
+  groups:
+    - title: "Work"
+      items:
+        - { year: "20XX - Now", title: "Job title", org: "Company name", url: "", points: ["Led a team of X people.", "Cut costs by X% through Y.", "Delivered Z on schedule."] }
+    - title: "Education"
+      items:
+        - { year: "20XX - 20XX", title: "Degree name", org: "University name", url: "", points: [] }
+    - title: "Certifications"
+      items:
+        - { year: "20XX", title: "PMP / ITIL / other", org: "Issuer", url: "", points: [] }
+
+contact:
+  heading: "Let's talk"
+  text: "I am open to new roles. The fastest way to reach me is email or LinkedIn."
