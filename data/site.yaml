@@ -8,7 +8,7 @@ email: "you@example.com"
 linkedin: "https://www.linkedin.com/in/your-profile"
 github: "https://github.com/pajero9584"
 cv: ""        # ဥပမာ "cv.pdf" (ဖိုင်ကို static ထဲ ထည့်ပါ)
-photo: ""     # ဥပမာ "images/me.jpg" (ဖိုင်ကို static/images ထဲ ထည့်ပါ)
+photo: "images/me.jpg"    # ဥပမာ "images/me.jpg" (ဖိုင်ကို static/images ထဲ ထည့်ပါ)
 
 about:
   heading: "Technology led by clear plans and people who trust each other"
